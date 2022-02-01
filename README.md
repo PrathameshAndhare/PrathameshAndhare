@@ -1,11 +1,5 @@
 ### Hi there! 👋
-<!-- •I'm Prathamesh, 2nd year undergrad pursuing ETC.
-•I'm a competetive programmer and very passionate about coding and development .
-•🌱 I’m currently learning Algorithms so that I can improve my critical thinking skills.
-•👯 I’m looking for internships in software development related field and excited to work on Software Development and Web Development technologies.
-•🧑‍🤝‍🧑 Looking for a team or an organization where I can learn and develop my skills.
-•💬 Feel free to ask me anything or ping me on LinkedIn. 
-•⚡ Fun fact: Love to meditate and desperate to play cricket if someone is interested.
+
 
  -->
 <!--
@@ -24,18 +18,15 @@ Here are some ideas to get you started:
 -->
 •I'm Prathamesh, 2nd year undergrad pursuing ETC.
 
-
-
-
-•I'm a competetive programmer and very passionate about coding and development .
+•✨ I'm a competetive programmer and very passionate about coding and development .
 
 •🌱 I’m currently learning Algorithms so that I can improve my critical thinking skills.
 
-•👯 I’m looking for internships in software development related field and excited to work on Software Development and Web Development technologies.
+•👯 I’m looking for internships in software development related field and excited to work on Software Development/Web Development technologies.
 
 •🧑‍🤝‍🧑 Looking for a team or an organization where I can learn and develop my skills.
 
-•💬 Feel free to ask me anything or ping me on LinkedIn. 
+•💬 Feel free to ask me anything or ping me on LinkedIn, I would love to start a great conversation 😄. 
 
 •⚡ Fun fact: Love to meditate and desperate to play cricket if someone is interested.
 
