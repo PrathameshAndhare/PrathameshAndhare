@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
 •💬 Feel free to ask me anything or ping me on LinkedIn, I would love to start a great conversation 😄. 
 
-•⚡ Fun fact: Love to meditate and desperate to play cricket if someone is interested.
+•⚡ Fun fact: Love to meditate and desperate to play cricket with someone interested.
 
